@@ -1,0 +1,14 @@
+Calculus
+Linear Algebra	Calculus
+Theoretical CS	Linear Algebra	Algorithms
+Algorithms	Introduction to CS
+Databases	Algorithms	
+Introduction to CS
+Advanced Programming	Introduction to CS
+Scientific Computing	Advanced Programming	Algorithms
+Computational Bio	Scientific Computing	Theoretical CS
+Artificial Intelligence	Theoretical CS
+Robotics	Artificial Intelligence
+Machine Learning	Artificial Intelligence
+Neural Networks	Artificial Intelligence	Machine Learning
+end
